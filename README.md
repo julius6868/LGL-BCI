@@ -1,4 +1,5 @@
-# LGL-BCI: A Lightweight Geometric Learning
+# LGL-BCI: 
+A Lightweight Geometric Learning
 Framework for Motor Imagery-Based Brain-Computer
 Interfaces
 
