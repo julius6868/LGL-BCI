@@ -1,7 +1,5 @@
 # LGL-BCI: 
-A Lightweight Geometric Learning
-Framework for Motor Imagery-Based Brain-Computer
-Interfaces
+A Lightweight Geometric Learning Framework for Motor Imagery-Based Brain-Computer Interfaces
 
 ## Prepare datasets
 Two public datasets are used in this study:
